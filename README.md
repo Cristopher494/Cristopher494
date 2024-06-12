@@ -25,9 +25,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently looking for work in Data Science and Machine Learning**
+- 🔭 I’m currently looking for work in Data Science and Machine Learning
 
-- 🌱 I’m currently learning about Azure plataform.**
+- 🌱 I’m currently learning about **Azure** plataform.
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
